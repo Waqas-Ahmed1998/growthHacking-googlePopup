@@ -542,20 +542,12 @@ Ensure the default browser behavior of the `hidden` attribute.
   height: 2rem;
 }
 
-.h-10 {
-  height: 2.5rem;
-}
-
 .min-h-\[570px\] {
   min-height: 570px;
 }
 
 .min-h-\[36px\] {
   min-height: 36px;
-}
-
-.min-h-\[10px\] {
-  min-height: 10px;
 }
 
 .w-fit {

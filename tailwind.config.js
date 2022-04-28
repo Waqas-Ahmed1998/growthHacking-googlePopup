@@ -26,6 +26,11 @@ module.exports = {
   },
   plugins: [
     require("@tailwindcss/typography"),
+    require("tailwind-scrollbar"),
+    // require("@tailwindcss/forms"),
     // require("@tailwindcss/line-clamp"),
   ],
+  variants: {
+    scrollbar: ["rounded"],
+  },
 };
